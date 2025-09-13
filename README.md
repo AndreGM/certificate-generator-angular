@@ -19,10 +19,10 @@ Este projeto foi desenvolvido utilizando **Angular** com o objetivo de permitir 
 ## Como Executar o Projeto
 
 1. Clone o repositório:
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone https://github.com/AndreGM/certificate-generator-angular
 
 2. Acesse a pasta do projeto:
-   cd nome-do-repo
+   cd certificate-generator-angular
 
 3. Instale as dependências:
    npm install
