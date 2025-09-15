@@ -1,12 +1,13 @@
 # Gerador de Certificados em Angular
 
-Este projeto foi desenvolvido utilizando **Angular** com o objetivo de permitir que um aluno preencha suas informações em um formulário e, a partir desses dados, gere automaticamente um **certificado personalizado** que pode ser baixado em formato PDF.
+Este projeto foi desenvolvido utilizando **Angular** com o objetivo de permitir que um aluno preencha suas informações em um formulário e, a partir desses dados, gere automaticamente um **certificado personalizado** que pode ser baixado em formato PNG.
+Os dados são salvos no localStorage.
 
 ## Funcionalidades
 
 - Formulário para entrada de informações do aluno (nome, curso, data, etc.).
 - Geração automática de certificado com os dados fornecidos.
-- Opção para **download do certificado** em PDF.
+- Opção para **download do certificado** em PNG.
 - Interface simples e responsiva.
 
 ## Tecnologias Utilizadas
@@ -15,6 +16,7 @@ Este projeto foi desenvolvido utilizando **Angular** com o objetivo de permitir 
 - **TypeScript**
 - **HTML5 / CSS3**
 - **Bootstrap** (para estilização responsiva)
+- **Html2Canva**
 
 ## Como Executar o Projeto
 
@@ -32,3 +34,7 @@ Este projeto foi desenvolvido utilizando **Angular** com o objetivo de permitir 
 
 5. Acesse no navegador:
    http://localhost:4200
+
+## View DEMO on
+
+https://certificate-generator-angular.vercel.app/
